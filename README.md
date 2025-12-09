@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=F70000&width=800&lines=HELLO+WORLD!;VANSHIKA+HAS+ENTERED+THE+SERVER)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%7C+Full+Stack+Developer;Code.+Build.+Repeat.)
+
 
 
 <!-- Animated typing header -->
