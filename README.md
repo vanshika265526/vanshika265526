@@ -1,12 +1,12 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Vanshika&fontAlignY=35&animation=twinkling)
+
+
 <!-- Animated typing header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&width=700&lines=Hi,+I'm+Vanshika;Full-Stack+Web+Dev+%7C+AI+%7C+Prompt+Engineer;Shipping+AI-first+web+experiences+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&width=700&lines=Full-Stack+Web+Dev+%7C+AI+%7C+Prompt+Engineer;Shipping+AI-first+web+experiences+🚀" />
 </h1>
 
-<!-- Profile view counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vanshika265526&label=Profile+Views&color=blueviolet&style=flat-square" />
-</p>
+
 
 ### 👋 About Me
 - Full-Stack Web Developer | AI & Prompt Engineer | Product-minded Builder
