@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Vanshika&fontAlignY=35&animation=twinkling)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=F70000&width=800&lines=HELLO+WORLD!;VANSHIKA+HAS+ENTERED+THE+SERVER)
 
 
 <!-- Animated typing header -->
