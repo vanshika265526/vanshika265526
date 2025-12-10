@@ -76,6 +76,16 @@
 - Computer Communications — Coursera (Nov ’24)  
 - Bits & Bytes of Computer Networking — Coursera (Sep ’24)
 
+## 🧩 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/vanshika2976910b?theme=dark&font=Karma)
+
+
+
+
+
+
+
+
 ### 📊 GitHub Stats (Interactive Cards)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanshika265526&show_icons=true&theme=radical" height="170" />
@@ -96,3 +106,6 @@
 - LinkedIn: https://www.linkedin.com/in/vanshika--/
 - GitHub: https://github.com/vanshika265526
 - Email: vanshika2976910b@gmail.com
+
+## 💬 Dev Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
