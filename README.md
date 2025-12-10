@@ -10,15 +10,20 @@ Hi, I'm Vanshika 👋
 </div>
 
 
-### 👋 About Me
-- Full-Stack Web Developer | AI & Prompt Engineer | Product-minded Builder
-- Currently building AI-first web experiences and sharpening system design.
-- Interests: AI agents, RAG, prompt engineering, scalable UI, DX tooling.
+### 👋 About Me  
+- 🎓 Computer Science Student | Full-Stack & AI Developer building intelligent web products  
+- Specialized in AI agents, RAG pipelines, prompt engineering, and scalable UI systems  
+- Strong believer in learning by building, shipping, and iterating fast  
+- Currently diving deeper into system design and AI-first product architecture  
+
+⚡ Interests: LLM apps • AI automation • Scalable frontend • Developer Experience  
+🚀 Current Focus: Building production-grade AI web platforms
 
 
 
-### 🛠️ Tech Stack (Badges)
-<p>
+
+<h1 align='center'> 🛠️ Tech Stack (Badges)</h1>
+<p align='center'>
   <!-- Core -->
   <img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript" />
