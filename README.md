@@ -80,6 +80,11 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vanshika2976910b?theme=dark&font=Karma)
 
 
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=vanshika265526&theme=dark)
+
+## 🛠️ Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika265526&layout=compact&theme=dark)
 
 
 
