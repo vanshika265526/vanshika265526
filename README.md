@@ -2,9 +2,13 @@
 Hi, I'm Vanshika 👋
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=600&lines=Full+Stack+Developer;AI+%26+Web+Enthusiast;Building+Real-World+Projects" />
-</p>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;AI+%26+Web+Enthusiast;Building+Real-World+Projects" 
+    alt="Typing SVG" 
+  />
+</div>
+
 
 ### 👋 About Me
 - Full-Stack Web Developer | AI & Prompt Engineer | Product-minded Builder
