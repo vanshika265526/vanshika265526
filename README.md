@@ -1,18 +1,23 @@
 <p align="center">
 # Hi, I'm Vanshika 👋
+</p>
 
 
-
+<p align="center">
 <!-- Animated typing header -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=600&lines=Full+Stack+Developer;AI+%26+Web+Enthusiast;Building+Real-World+Projects)
+</p>
 
 
-
+<p align="center">
 ### 👋 About Me
 - Full-Stack Web Developer | AI & Prompt Engineer | Product-minded Builder
 - Currently building AI-first web experiences and sharpening system design.
 - Interests: AI agents, RAG, prompt engineering, scalable UI, DX tooling.
+</p>
 
+
+<p align="center">
 ### 🛠️ Tech Stack (Badges)
 <p>
   <!-- Core -->
@@ -63,32 +68,41 @@
   <img src="https://img.shields.io/badge/Figma-1abcfe?style=flat&logo=figma&logoColor=fff" />
   <img src="https://img.shields.io/badge/Canva-00c4cc?style=flat&logo=canva&logoColor=fff" />
 </p>
+</p>
 
+<p align="center">
 ### 🚀 Featured Projects
 - **Swasth AI** — AI-powered health assistant for symptom triage & guidance.
 - **GoPlanner** — Smart scheduling and itinerary planner with AI suggestions.
 - **Hotel AI Assistant** — Conversational concierge for bookings and FAQs.
 - **Optify AI (Resume–JD Analyzer)** — Tailors resumes to job descriptions with scoring and suggestions.
 - **Movie Ticket Booking Assistant** — Chat-based ticketing flow with showtime discovery.
+</p>
 
+<p align="center">
 ### 🏅 Certifications
 - NodeJS — HackerRank (Oct ’25)  
 - Frontend Developer (React) — HackerRank (Oct ’25)  
 - MongoDB Basics — MongoDB (Jul ’25)  
 - Computer Communications — Coursera (Nov ’24)  
 - Bits & Bytes of Computer Networking — Coursera (Sep ’24)
+</p>
 
+<p align="center">
 ## 🤝 Open to Collaborate On
 - Full Stack Web Apps
 - AI + API-based Tools
 - Hackathons & Open Source
+</p>
 
-
+<p align="center">
 ### 🤝 Connect
 - LinkedIn: https://www.linkedin.com/in/vanshika--/
 - GitHub: https://github.com/vanshika265526
 - Email: vanshika2976910b@gmail.com
+</p>
 
+<p align="center">
 ## 💬 Dev Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </p>
