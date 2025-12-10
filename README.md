@@ -1,11 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%7C+Full+Stack+Developer;Code.+Build.+Repeat.)
-
+# Hi, I'm Vanshika 👋
 
 
 <!-- Animated typing header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&width=700&lines=Full-Stack+Web+Dev+%7C+AI+%7C+Prompt+Engineer;Shipping+AI-first+web+experiences+🚀" />
-</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=600&lines=Full+Stack+Developer;AI+%26+Web+Enthusiast;Building+Real-World+Projects)
 
 
 
