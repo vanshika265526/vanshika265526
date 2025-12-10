@@ -1,4 +1,6 @@
+<p align="center">
 # Hi, I'm Vanshika 👋
+
 
 
 <!-- Animated typing header -->
@@ -76,31 +78,6 @@
 - Computer Communications — Coursera (Nov ’24)  
 - Bits & Bytes of Computer Networking — Coursera (Sep ’24)
 
-## 🧩 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/vanshika2976910b?theme=dark&font=Karma)
-
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=vanshika265526&theme=dark)
-
-## 🛠️ Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika265526&layout=compact&theme=dark)
-
-
-
-
-
-
-### 📊 GitHub Stats (Interactive Cards)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshika265526&show_icons=true&theme=radical" height="170" />
-  <img src="https://streak-stats.demolab.com?user=vanshika265526&theme=radical" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshika265526&layout=compact&theme=radical" height="170" />
-</p>
-
-
 ## 🤝 Open to Collaborate On
 - Full Stack Web Apps
 - AI + API-based Tools
@@ -114,3 +91,4 @@
 
 ## 💬 Dev Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</p>
