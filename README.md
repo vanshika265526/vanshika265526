@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Vanshika 👋
+Hi, I'm VANSHIKA
 </h1>
 
 <div align="center">
@@ -74,16 +74,17 @@ Hi, I'm Vanshika 👋
 </p>
 
 ### 🚀 Featured Projects
+- **ProSync** — Team collaboration and productivity platform for project tracking, task management, and real-time communication like Jira.
+- **Filenest (Cloud Storage Application)** — Secure cloud-based file storage and sharing system with organized document management and quick access features.
 - **Swasth AI** — AI-powered health assistant for symptom triage & guidance.
-- **GoPlanner** — Smart scheduling and itinerary planner with AI suggestions.
-- **Hotel AI Assistant** — Conversational concierge for bookings and FAQs.
+- **GoPlanner - Travel & itineary** — Smart scheduling and itinerary planner with AI suggestions.
 - **Optify AI (Resume–JD Analyzer)** — Tailors resumes to job descriptions with scoring and suggestions.
-- **Movie Ticket Booking Assistant** — Chat-based ticketing flow with showtime discovery.
 
 
 ### 🏅 Certifications
+- Cloud Computing — NPTEL (Apr '26)
 - NodeJS — HackerRank (Oct ’25)  
-- Frontend Developer (React) — HackerRank (Oct ’25)  
+- Frontend Developer (React) — HackerRank (Oct ’25)
 - MongoDB Basics — MongoDB (Jul ’25)  
 - Computer Communications — Coursera (Nov ’24)  
 - Bits & Bytes of Computer Networking — Coursera (Sep ’24)
@@ -99,6 +100,7 @@ Hi, I'm Vanshika 👋
 - LinkedIn: https://www.linkedin.com/in/vanshika--/
 - GitHub: https://github.com/vanshika265526
 - Email: vanshika2976910b@gmail.com
+- Portfolio: https://portfolio-wine-phi-84.vercel.app/
 
 
 
